@@ -1,0 +1,4 @@
+ircserv
+ircserv_debug
+*.o
+*.d
